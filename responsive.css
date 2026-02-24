@@ -1,0 +1,409 @@
+@media only screen and (min-width:991px) and (max-width:1199px)  {
+.container{    max-width: 720px;}
+
+.administration{width: 100%;}
+.admin-email{width: 45%;}
+.admin-phone{width: 45%;}
+.admin{padding-bottom: 58px; width: 100%;}
+.social-icons{width: 100%;}
+.social-icons ul {    float: none; text-align: center;}
+.logo img{width: 60%; margin-top: 0px;     height: auto;}
+.logo{width: 20%;}
+.home{width: 100%;}
+.project {width: 100%;}
+.welcome-shield {width: 100%;}
+.about-image {width: 100%;}
+.cup-icon {width: 20%;}
+.team p {font-size: 12px;}
+.welcome h2 {width: 100%; line-height: 40px;}
+.navbar{padding-top: 30px;}
+.navbar ul li{margin-right: 0px;}
+.navbar ul li a{padding: 0px 0 0 25px;}
+.image32{    width: 47%; margin-right: 15px;  margin-bottom: 15px;}
+.border-box32{ margin-right: 15px; margin-bottom: 15px;     width: 42%;}
+.borderbox-blog32 {height: auto;}
+
+.latest-project32 img{padding-top: 0px;}
+.latest-project32{width: 31%;}
+.borderbox-blog32{width: 46%; margin-top: 15px;margin-right: 20px;margin-bottom: 15px; height: 420px}
+.footer{ padding: 40px 0px;}
+.footer-logo{width: 40%;}
+.feature{width: 27%;}
+.latest-post{width: 33%;}
+.blog-post {margin-top: 38px;}
+.picture {height: auto;}
+.roofing {padding: 60px 0px;}
+.footer {margin-top: 20px;}
+.latest-project32 {margin-bottom: 16px;}
+.our-blog {  padding: 30px 0px;}
+
+
+
+
+/*<--------------------------------------about us page----------------------------->*/
+.about-image img {width: 470px; height: 415px;}
+.team-image {width: 50%;}
+.team-image img {margin-bottom: 10px;}
+.team-content {width: 70%;}
+.developer .para5 {width: 100%;}
+.pricing-box30 {width: 30%;}
+.contact {width: 100%;}
+.contact-form input {width: 100%;}
+.contact-form textarea{width: 99%;}
+.cup-icon {width: 25%;}
+.welcome-shield {width: 100%;}
+.about-image img {width: 100%; height: auto;}
+.about-image {width: 100%;}
+
+
+/*<--------------------------portfolio------------------------------------------------>*/
+
+.latest-project32 .overlay {top: 0px; height: 100%;}
+
+/*<--------------------------blog page------------------------------------------------>*/
+
+/*<--------------------------services page----------------------------------------->*/
+
+.navbar {padding-top: 25px;}
+.service-main {width: 24%;}
+.service-main h5 {font-size: 14px;line-height: 15px;}
+.team p {margin-bottom: 25px;}
+.footer {margin-top: -25px;}
+
+/*contact page*/
+
+.contact-area{padding-bottom: 15px;}
+.forms {width: 47%;}
+
+/*blog detail*/
+
+
+.blog-detail-image {width: 100%;}
+.detail-image {width: 100%;}
+.sidebar-form {width: 100%;}
+.blog-post {margin-top: 60px;}
+.sidebar-form form button{height: 40px; width: 15%;}
+.sidebar-form {padding-top: 30px;}
+.health-content p {text-align: justify;}
+
+/*blog left sidebar*/
+
+.sidebar-images {width: 100%;}
+.sidebar-form {width: 100%;}
+.sidebar-form form button {width: 20%; height: 40px;}
+.sidebar-images {width: 100%;}
+.borderbox-blog-image35 {width: 100%;}
+
+/*blog right side bar*/
+
+.heading-three {width: 100%;}
+
+}
+
+@media only screen and (min-width:768px) and (max-width: 990px){
+.container{    max-width: 720px;}
+.administration{width:100%;}
+.admin-email {width: 50%;}
+.admin-phone {width: 40%;}
+.admin{height: 97px;}
+.social-icons{width: 100%;}
+.social-icons ul { float: none; text-align: center;}
+.roofing{padding:50px 0px;}
+.image32 {width: 47%; margin-bottom: 55px;}
+.border-box32 {width: 40%;}
+.latest-project32 {width: 31%;}
+.borderbox-blog32 {width: 31%;}
+.borderbox-blog32 {height: auto;}
+
+.latest-post {width: 36%;}
+.footer-logo {width: 48%; margin-bottom: 25px;}
+.feature{width: 48%; margin-bottom: 25px;}
+.latest-post{width: 48%;}
+.contact{width: 48%;}
+.latest-post h3 {text-align: center;}
+.blog-post {margin-top: 28px;}
+.contact h3 {margin-top: 0px;}
+.navbar{padding-top: 30px;}
+
+
+/*<--------------------------about us page---------------------------------->*/
+
+.welcome-shield {width: 100%;}
+.about-image {width: 100%;}
+.team-image {width: 50%;}
+.developer .para5 {width: 100%}
+.pricing-box30 {width: 30%;}
+
+
+/*<--------------------------portfolio---------------------------------->*/
+
+.container{    max-width: 720px;}
+.admin {width: 100%; height: 100px;}
+.navbar ul li a {padding: 0px 0 0 21px;}
+.navbar ul li {margin-right: 0px;}
+.latest-project32 .overlay {height: 94%;}
+
+
+/*<--------------------------portfolio------------------------------------------------>*/
+
+/*<--------------------------blog page------------------------------------------------>*/
+
+.footer {padding: 70px 0px; margin-top: 30px;}
+
+/*services page*/
+.navbar{padding-top: 50px;}
+.service-main {width: 41%;}
+
+
+/*contact page*/
+
+.forms {width: 45%; margin-right: 40px;}
+.contact_forms textarea {width: 89%;}
+
+/*blog detail*/
+
+.blog-detail-image {
+    width: 100%;
+    float: left;
+    padding: 40px 0px;
+}
+.blog-detail-image img {
+    width: 100%!important;
+}
+.respond-form textarea {width: 95%;}
+
+.detail-image {width: 100%;}
+.health-content p{text-align: justify;}
+
+
+
+.health-content { margin-left: 20px;}
+.respond-area { margin-left: 20px;}
+
+.detail-image {width: 100%;}
+.sidebar-form {width: 100%; padding-top: 30px; margin-left: 20px;}
+.blog-post {margin-top: 60px;}
+.tag-menu li {margin-right: 1px;}
+
+/*blog left side bar*/
+
+.sidebar-images {width: 100%;}
+.sidebar-form {width: 100%;}
+.sidebar-form form button {width: 20%; height: 40px;}
+.sidebar-images {width: 100%;}
+.borderbox-blog-image35 {width: 100%;}
+
+
+}
+
+
+
+
+@media only screen and (min-width:480px) and (max-width: 767px){
+.container{max-width: 460px;}
+.administration{width: 100%;}
+.admin{height: 100px;}
+.admin-email{width: 45%;}
+.admin-phone{width: 45%;}
+
+.navbar ul {display: none;}
+div#main span {display: block !important; text-align: right; margin-right: 25px;}
+.navbar{padding-top: 25px;}
+
+
+.social-icons ul{float: none; text-align: center;}
+.roofing{padding-top: 30px 0px;}
+.image32{width: 46%; margin-right: 18px; margin-bottom: 18px;}
+.border-box32{width: 37%; margin-right: 17px;}
+.borderbox-blog32 {height: auto;}
+.latest-project32 {width: 46%;}
+.developer .para5 {width: 100%;}
+.borderbox-blog32 {width: 46%;    margin-top: 35px;    margin-bottom: 10px;}
+.latest-post {width: 63%;}
+.footer-logo {width: 70%;}
+.feature {width: 30%;}
+.contact{width: 30%}
+
+
+/*<-----------------------------about us page--------------------------------------->*/
+	
+
+.welcome-shield {width: 100%;}
+.about-image { width: 99%;}
+.about-image img {max-width: 100%; height: none;margin-top: none;}
+.team-image {width: 100%; text-align: center;}
+.team-content {width: 90%; text-align: center;}
+.pricing {width: 100%;}
+.pricing-box30 { width: 100%;}
+.navbar ul {display: none;}
+div#main span {display: block !important; text-align: right; margin-right: 25px;}
+.navbar{padding-top: 25px;}
+
+/*<--------------------------portfolio---------------------------------->*/
+.social-icons {width: 100%;}
+
+
+/*<--------------------------blog page---------------------------------->*/
+
+
+.admin {width: 100%; height: 100px;}
+.container{max-width: 460px;}
+.footer{padding: 50px 0px;}
+.borderbox-blog32 { min-height: 385px;}
+
+/*service page*/
+
+
+.service-main {width: 36%;}
+.service-main h5 {font-size: 13px; line-height: 20px;}
+.footer{margin-top: 10px;}
+
+/*contact page*/
+
+.contact-text p {font-size: 10px; line-height: 17px;}
+.contact_forms {padding-top: 5px;}
+.forms {width: 100%;  margin-bottom: 30px;} 
+.google-maps {width: 100%;}
+
+.navbar ul {    display: none;}
+div#main span {    display: block !important; text-align: right; margin-right: 25px;}
+.navbar{padding-top: 25px;}
+
+/*blog detail*/
+
+.detail-image {width: 100%;}
+.respond-form textarea {width: 90%;}
+.respond-form button, .contact-form button {margin-bottom: 25px;}
+.sidebar-form {width: 100%;}
+.sidebar-form form button {width: 20%; height: 40px;}
+.detail-image img { width: 100%;}
+.health-content p {margin-left: 10px;}
+.health-content h1 {text-align: center;}
+.health-content h3 {margin-left: 10px;}
+.health-content-meta {margin-left: 10px;}
+.respond-title h3 {margin-left: 10px;}
+.respond-title p {margin-left: 10px;}
+.respond-form label {margin-left: 10px;}
+.respond-form{margin-left: 10px;}
+.sidebar-form {margin-left: 10px;}
+.health-content p{text-align: justify;}
+/*.footer {margin-left: 10px;}*/
+.respond-form input{    width: 100%;}
+.footer-logo {width: 65%;}
+.latest-post {width: 60%;}
+
+/*blog left sidebar 480*/
+
+.footer {margin-left: 0px;}
+/*blog right sidebar*/
+
+.sidebar-images {width: 100%;}
+.borderbox-blog-image35 {width: 100%;}
+
+.team-image img {float: none;}
+
+}
+
+
+
+@media only screen and (max-width: 479px){
+.container{max-width: 300px;}
+
+.admin{width: 100%; height: 137px;}
+.administration{width: 100%;}
+.admin-email {width: 92%;}
+.admin-phone {width: 100%;}
+.social-icons {width: 100%;}
+.social-icons ul {float: left;}
+.social-icons ul li {padding: 5px;}
+.logo{width: 100%;}
+.navbar{width: 100%; padding-top: 10px;}
+.navbar ul {float: left;}
+.navbar ul li {margin-right: 10px;}
+
+.navbar ul {    display: none;}
+div#main span {    display: block !important; text-align: right; margin-right: 25px;}
+.navbar{padding-top: 25px;}
+.navbar {width: 50%;}
+
+.natural {padding: 37px 0px;}
+.natural h2 {font-size: 20px;}
+.natural h1 {font-size: 20px;}
+.natural p {font-size: 12px;}
+.picture {height: 355px;}
+.roofing {padding: 15px 0px;}
+.image32 {margin-bottom: 25px;width: 100%;}
+.shielding {padding: 25px 0px;}
+.border-box32 {width: 86%;}
+.our{padding: 20px 0px}
+.latest-project32 {width: 44%;margin-right: 18px;}
+.developer .para5 {font-size: 12px; line-height: 20px;width: 100%;margin-top: -170px;}
+.borderbox-blog32 {width: 100%;margin-bottom: -40px;}
+.borderbox-blog32 {height: auto;}
+.blog-content p {font-size: 12px; line-height: 30px;}
+.footer{padding: 30px 0px;}
+.footer-logo {width: 100%;}
+.feature {width: 100%;}
+.latest-post {width: 100%;}
+.contact {width: 95%;}
+.contact h3 {margin-bottom: 20px;}
+.blog-post {margin-top: 12px;}
+.feature li {margin-top: 10px;}
+.footer {margin-top: 65px;}
+.latest-project32 {width: 100%;}
+.contact-form textarea {width: 85%;}
+.contact-form input {width: 85%;}
+/*<-----about us page--------->*/
+.welcome-shield {width: 100%;}
+.about-image img {width: 100%;height: none;}
+.cup-icon {width: 23%;}
+.cup-icon p {font-size: 12px;}
+.team-image {width: 100%;}
+.developer .para5 {margin-top: -280px;}
+.pricing-box30 {width: 100%;}
+.rating{padding: 45px 0px;}
+/*<--------------------------portfolio---------------------------------->*/
+/*blog page*/
+/*service page*/
+.service-main {width: 80%;}
+.footer {margin-top: 64px;}
+/*contact-page*/
+.contact_forms button {margin-bottom: 20px;}
+.contact-icon {width: 50%;}
+.contact-text p{margin-bottom: 20px}
+.google-maps {width: 100%;}
+/*blog detail*/
+.admin {width: 100%; height: 130px;}
+.administration {width: 100%;}
+.admin-email {width: 100%;}
+.admin-phone {width: 100%;}
+.social-icons ul {float: none;}
+.social-icons ul li {text-align: center;}
+.detail-image img {    width: 100%;}
+.detail-image{width: 100%;}
+.sidebar-form{width: 100%;}
+.sidebar-form form button {width: 30%; height: 40px;}
+.blog-detail-image {margin-left: 10px;}
+.respond-form textarea {width: 92%; padding: 0px!important;}
+.respond-form button, .contact-form button {margin-bottom: 30px;}
+.blog-post {margin-top: 50px;}
+.post-text {margin-left: 121px;}
+
+/*blog right side bar*/
+.admin-email {width: 90%;}
+
+.navbar ul {    display: none;}
+div#main span {    display: block !important; text-align: right; margin-right: 25px;}
+.navbar{padding-top: 25px;}
+.navbar {width: 50%;}
+.logo {width: 50%;}
+.about-image {width: 100%;}
+
+/*blog left sidebar*/
+.sidebar-images {width: 100%;}
+.borderbox-blog-image35 {width: 100%;}
+.borderbox-blog-image35 img {width: 100%;}
+.health-content p {text-align: justify;}
+.respond-form input{width: 92%;}
+.forms{width: 100%;}
+}
